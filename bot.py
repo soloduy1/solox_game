@@ -7,7 +7,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 GAME_URL = os.getenv(
     "GAME_URL",
-    "https://modeselector1.github.io/game_solmax_bot/gemini-code-1780062785165.html",
+    "https://soloduy1.github.io/solex-site/",
 )
 
 
